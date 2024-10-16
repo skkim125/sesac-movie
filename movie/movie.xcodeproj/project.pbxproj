@@ -18,6 +18,7 @@
 		A59FA6522CBF4EDA004066BC /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = A59FA6512CBF4EDA004066BC /* Network.swift */; };
 		A59FA6542CBF4FA0004066BC /* NetworkModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A59FA6532CBF4FA0004066BC /* NetworkModel.swift */; };
 		A59FA6562CBF501D004066BC /* Router.swift in Sources */ = {isa = PBXBuildFile; fileRef = A59FA6552CBF501D004066BC /* Router.swift */; };
+		D18B34C22CBF82D000E1C5A7 /* MediaDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D18B34C12CBF82D000E1C5A7 /* MediaDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		A59FA6512CBF4EDA004066BC /* Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Network.swift; sourceTree = "<group>"; };
 		A59FA6532CBF4FA0004066BC /* NetworkModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkModel.swift; sourceTree = "<group>"; };
 		A59FA6552CBF501D004066BC /* Router.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Router.swift; sourceTree = "<group>"; };
+		D18B34C12CBF82D000E1C5A7 /* MediaDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,7 +83,7 @@
 				A5212BFA2CBF4A9100A9CFF1 /* ContentView.swift */,
 				A5212BFC2CBF4A9300A9CFF1 /* Assets.xcassets */,
 				A5212BFE2CBF4A9300A9CFF1 /* Preview Content */,
-				A50F478C2CBF82BD0058B948 /* MediaDetailView.swift */,
+				D18B34C12CBF82D000E1C5A7 /* MediaDetailView.swift */,
 			);
 			path = movie;
 			sourceTree = "<group>";
@@ -174,7 +176,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A50F478D2CBF82BD0058B948 /* MediaDetailView.swift in Sources */,
+				D18B34C22CBF82D000E1C5A7 /* MediaDetailView.swift in Sources */,
 				A59FA6542CBF4FA0004066BC /* NetworkModel.swift in Sources */,
 				A5212BFB2CBF4A9100A9CFF1 /* ContentView.swift in Sources */,
 				A59FA6562CBF501D004066BC /* Router.swift in Sources */,
