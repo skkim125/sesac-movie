@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A50F478D2CBF82BD0058B948 /* MediaDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A50F478C2CBF82BD0058B948 /* MediaDetailView.swift */; };
 		A5212BF92CBF4A9100A9CFF1 /* movieApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5212BF82CBF4A9100A9CFF1 /* movieApp.swift */; };
 		A5212BFB2CBF4A9100A9CFF1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5212BFA2CBF4A9100A9CFF1 /* ContentView.swift */; };
 		A5212BFD2CBF4A9300A9CFF1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5212BFC2CBF4A9300A9CFF1 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A50F478C2CBF82BD0058B948 /* MediaDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaDetailView.swift; sourceTree = "<group>"; };
 		A5212BF52CBF4A9100A9CFF1 /* movie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = movie.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5212BF82CBF4A9100A9CFF1 /* movieApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = movieApp.swift; sourceTree = "<group>"; };
 		A5212BFA2CBF4A9100A9CFF1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				A5212BFA2CBF4A9100A9CFF1 /* ContentView.swift */,
 				A5212BFC2CBF4A9300A9CFF1 /* Assets.xcassets */,
 				A5212BFE2CBF4A9300A9CFF1 /* Preview Content */,
+				A50F478C2CBF82BD0058B948 /* MediaDetailView.swift */,
 			);
 			path = movie;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A50F478D2CBF82BD0058B948 /* MediaDetailView.swift in Sources */,
 				A59FA6542CBF4FA0004066BC /* NetworkModel.swift in Sources */,
 				A5212BFB2CBF4A9100A9CFF1 /* ContentView.swift in Sources */,
 				A59FA6562CBF501D004066BC /* Router.swift in Sources */,
